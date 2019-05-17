@@ -47,10 +47,6 @@ class ViewController: UIViewController {
 //            self.mainView.frame.origin.y = 200
 //            self.UIupdate()
 //        }
-       
-        
-        
-        
         // Do any additional setup after loading the view.
     }
     
